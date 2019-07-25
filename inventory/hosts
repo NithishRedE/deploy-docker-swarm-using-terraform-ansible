@@ -1,0 +1,5 @@
+[masters]
+54.148.247.156 ansible_user=ubuntu ansible_private_key_file=/home/ubuntu/DevOps-Tools/Praveen.pem
+[workers]
+34.222.132.226  ansible_user=ubuntu ansible_private_key_file=/home/ubuntu/DevOps-Tools/Praveen.pem
+35.163.80.208 ansible_user=ubuntu ansible_private_key_file=/home/ubuntu/DevOps-Tools/Praveen.pem
